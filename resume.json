@@ -1,0 +1,164 @@
+{
+    "basics": {
+        "name": "Maksim Skutin",
+        "label": "DevOps Engineer",
+        "picture": "https://en.gravatar.com/userimage/96649416/baa527120c21fdfd266f9f6c54934068.jpg?size=1200",
+        "email": "meskutin@gmail.com",
+        "phone": "",
+        "website": "https://maks.pw",
+        "summary": "Continuous progress on professional and personal fronts through all round skills with emphasis on assigned targets.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Singapore",
+            "countryCode": "SG",
+            "region": ""
+        },
+        "profiles": [{
+                "network": "linkedin",
+                "username": "mskutin",
+                "url": "https://www.linkedin.com/in/mskutin/"
+            },
+            {
+                "network": "github",
+                "username": "mskutin",
+                "url": "https://github.com/mskutin"
+            },
+            {
+                "network": "dribbble",
+                "username": "mskutin",
+                "url": "https://app.pluralsight.com/profile/mskutin"
+            },
+            {
+                "network": "stack overflow",
+                "username": "mskutin",
+                "url": "https://stackoverflow.com/users/4274393/maksim-skutin"
+            },
+            {
+                "network": "meetup",
+                "username": "mskutin",
+                "url": "https://www.meetup.com/members/186474789"
+            }
+        ]
+    },
+    "work": [{
+            "company": "Quantum Inventions (QI)",
+            "position": "Lead Infrastructure, DevOps Engineer",
+            "website": "http://quantuminventions.com",
+            "startDate": "2016-08-01",
+            "summary": "Design and implementation of flexible and robust infrastructure, environments.  Advocate DevOps culture and best SDLC practises across developer, qa automation, operation teams. Operating, maintaining and supporting the entire business’ infrastructure for all groups, including Android, iOS, Web front-end and back-end departments. Management of AWS Infrastructure.",
+            "highlights": ["https://slick.com.sg"]
+        },
+        {
+            "company": "BandLab",
+            "position": "DevOps, Cloud Infrastructure and Continuous Delivery Engineer",
+            "website": "https://www.bandlab.com",
+            "startDate": "2014-08-01",
+            "summary": "Operating, maintaining and supporting the entire business’ infrastructure for all groups, including Android, iOS, Web front-end and back-end departments at all lifecycle.  Building the product release, establishing and improving a build workflow. Continuous delivery into dev/stage/production environments. Preparing the final release notes and notification of release completion.  Strong focus on rapidly developing automated build, package and deployment processes which have the ability to handle multiple variants of the same codebase.  Design and implementation various deployment strategies. ",
+            "highlights": [],
+            "endDate": "2016-08-01"
+        },
+        {
+            "company": "Luxoft",
+            "position": "Configuration Manager, Java Developer",
+            "website": "https://luxoft.com",
+            "startDate": "2012-09-01",
+            "summary": "Provided infrastructure support to development team. Supported development activities so that developers and QA Engineers have appropriate workspaces to build and test their work, and so that all artifacts are available for inclusion in the deployment unit as required. Also had to ensure that the environment facilitates product review, and change and defect tracking activities and also responsible for writing the CM Plan and reporting progress statistics based on change requests.",
+            "highlights": [],
+            "endDate": "2014-08-01"
+        }
+    ],
+    "education": [{
+        "institution": "Omsk State Technical University",
+        "area": "Computers, complexes, systems and networks",
+        "studyType": "Specialist degree (MCS)",
+        "startDate": "2008-09-01",
+        "endDate": "2013-06-15",
+        "courses": ["Design Patterns", "Linux Foundation Certified Engineer Course (LFCE)"]
+    }],
+    "skills": [{
+            "name": "DevOps",
+            "level": "",
+            "keywords": ["CI/CD Pipeline as code", "Infrastructure as Code", "Documentation as Code", "Monitoring as Code", "Blameless Culture", "Retrospective", "Postmortems", "Immutable infrastructure", "Automation", "Chatops", "Gitflow", "Github Flow", "Live Business Metrics"]
+        },
+        {
+            "name": "Microsoft Azure",
+            "level": "",
+            "keywords": ["App Services", "Functions", "Traffic Manager", "Azure Storage", "Application Insights", "Automation Runbooks", "Logic Apps", "MS SQL", "Redis"]
+        },
+        {
+            "name": "Amazon Web Services",
+            "level": "",
+            "keywords": ["VPC", "EC2", "S3", "Cloudwatch", "ECS/ECR", "Lambda", "API Gateway", "Cloudfront", "CAM", "Route 53", "Beanstalk", "Elasticsearch", "SQS", "Kinesis", "RDS", "DynamoDB", "IAM"]
+        },
+        {
+            "name": "Continuous Integration",
+            "level": "",
+            "keywords": ["Jenkins Pipelines", "Bitbucket Pipelines", "Teamcity", "Bamboo"]
+        },
+        {
+            "name": "Observability",
+            "level": "",
+            "keywords": ["Sentry", "Application Insights", "Prometheus", "Alert Manager", "Grafana", "CAdvisor", "NodeExporter", "Custom exporters"]
+        },
+        {
+            "name": "IaC",
+            "level": "",
+            "keywords": ["Terraform", "Cloudformation", "ARM Templates"]
+        },
+        {
+            "name": "Scripting",
+            "level": "",
+            "keywords": ["Bash", "Powershell", "NodeJS"]
+        },
+        {
+            "name": "Tech Stack",
+            "level": "",
+            "keywords": ["Serverless", "NodeJS", "Ruby on Rails", "ASP.NET Web API", "Spring Boot"]
+        },
+        {
+            "name": "Build and Package Management",
+            "level": "",
+            "keywords": ["Make", "Gradle", "Maven", "Ant", "MSBuild", "Bundler", "NPM", "Yarn", "Fastlane"]
+        },
+        {
+            "name": "Codestyle",
+            "level": "",
+            "keywords": ["Sonar", "StyleCop", "Rubocop", "Breakman", "ESLint"]
+        },
+        {
+            "name": "Containerization",
+            "level": "",
+            "keywords": ["Docker", "Docker Compose", "AWS ECS"]
+        },
+        {
+            "name": "Logging",
+            "level": "",
+            "keywords": ["Elasticsearch", "Logstash", "Kibana", "Cloudwatch Logs"]
+        },
+        {
+            "name": "Configuration Management",
+            "level": "",
+            "keywords": ["Ansible", "Packer", "Vagrant", "Docker"]
+        },
+        {
+            "name": "Issue Tracking",
+            "level": "",
+            "keywords": ["JIRA", "Redmine", "Github Issues", "Waffle", "Trello"]
+        },
+        {
+            "name": "Linux",
+            "level": "",
+            "keywords": ["Ubuntu", "CentOS/RHEL"]
+        }
+    ],
+    "languages": [{
+            "language": "Russian",
+            "fluency": "Native or bilingual proficiency"
+        },
+        {
+            "language": "English",
+            "fluency": "Full professional proficiency"
+        }
+    ]
+}
