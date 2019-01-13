@@ -5,7 +5,7 @@
         "picture": "https://en.gravatar.com/userimage/96649416/baa527120c21fdfd266f9f6c54934068.jpg?size=1200",
         "email": "meskutin@gmail.com",
         "phone": "",
-        "website": "https://maks.pw",
+        "website": "https://cv.maks.pw",
         "summary": "Continuous progress on professional and personal fronts through all round skills with emphasis on assigned targets.",
         "location": {
             "address": "",
@@ -42,19 +42,19 @@
         ]
     },
     "work": [{
-            "company": "Quantum Inventions (QI)",
+            "company": "Quantum Inventions",
             "position": "Lead Infrastructure, DevOps Engineer",
-            "website": "http://quantuminventions.com",
+            "website": "http://qi.sg",
             "startDate": "2016-08-01",
             "summary": "Design and implementation of flexible and robust infrastructure, environments.  Advocate DevOps culture and best SDLC practises across developer, qa automation, operation teams. Operating, maintaining and supporting the entire business’ infrastructure for all groups, including Android, iOS, Web front-end and back-end departments. Management of AWS Infrastructure.",
-            "highlights": ["https://slick.com.sg"]
+            "highlights": ["https://slick.com.sg", "serverless"]
         },
         {
             "company": "BandLab",
             "position": "DevOps, Cloud Infrastructure and Continuous Delivery Engineer",
             "website": "https://www.bandlab.com",
             "startDate": "2014-08-01",
-            "summary": "Operating, maintaining and supporting the entire business’ infrastructure for all groups, including Android, iOS, Web front-end and back-end departments at all lifecycle.  Building the product release, establishing and improving a build workflow. Continuous delivery into dev/stage/production environments. Preparing the final release notes and notification of release completion.  Strong focus on rapidly developing automated build, package and deployment processes which have the ability to handle multiple variants of the same codebase.  Design and implementation various deployment strategies. ",
+            "summary": "Operating, maintaining and supporting the entire business’ infrastructure for all groups, including Android, iOS, Web front-end and back-end departments at all lifecycle.  Building the product release, establishing and improving a build workflow. Continuous delivery into dev/stage/production environments. Preparing the final release notes and notification of release completion.  Strong focus on rapidly developing automated build, package and deployment processes which have the ability to handle multiple variants of the same codebase.  Design and implementation various deployment strategies.",
             "highlights": [],
             "endDate": "2016-08-01"
         },
@@ -74,7 +74,7 @@
         "studyType": "Specialist degree (MCS)",
         "startDate": "2008-09-01",
         "endDate": "2013-06-15",
-        "courses": ["Design Patterns", "Linux Foundation Certified Engineer Course (LFCE)"]
+        "courses": ["Design Patterns", "AWS Certified Solutions Architect - Associate 2018-2020", "Linux Foundation Certified Engineer Course (LFCE)"]
     }],
     "skills": [{
             "name": "DevOps",
