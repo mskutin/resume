@@ -1,7 +1,7 @@
 {
     "basics": {
         "name": "Maksim Skutin",
-        "label": "DevOps Engineer",
+        "label": "Lead DevOps Engineer",
         "picture": "https://en.gravatar.com/userimage/96649416/baa527120c21fdfd266f9f6c54934068.jpg?size=1200",
         "email": "meskutin@gmail.com",
         "phone": "",
@@ -43,37 +43,37 @@
     },
     "work": [{
             "company": "Quantum Inventions",
-            "position": "Lead Infrastructure, DevOps Engineer",
+            "position": "Lead DevOps Engineer",
             "website": "http://qi.sg",
-            "startDate": "2016-08-01",
-            "summary": "Design and implementation of flexible and robust infrastructure, environments.  Advocate DevOps culture and best SDLC practises across developer, qa automation, operation teams. Operating, maintaining and supporting the entire business’ infrastructure for all groups, including Android, iOS, Web front-end and back-end departments. Management of AWS Infrastructure.",
-            "highlights": ["https://slick.com.sg", "serverless"]
+            "startDate": "2016",
+            "summary": "Build DevOps culture with Devs, QAs and Ops. Design and implementation of flexible and robust infrastructure.",
+            "highlights": ["AWS Multi-Account Strategy", "Cloud cost optimizations", "Serverless", "Monorepo", "Feature-branch deployment"]
         },
         {
             "company": "BandLab",
-            "position": "DevOps, Cloud Infrastructure and Continuous Delivery Engineer",
+            "position": "DevOps Engineer",
             "website": "https://www.bandlab.com",
-            "startDate": "2014-08-01",
-            "summary": "Operating, maintaining and supporting the entire business’ infrastructure for all groups, including Android, iOS, Web front-end and back-end departments at all lifecycle.  Building the product release, establishing and improving a build workflow. Continuous delivery into dev/stage/production environments. Preparing the final release notes and notification of release completion.  Strong focus on rapidly developing automated build, package and deployment processes which have the ability to handle multiple variants of the same codebase.  Design and implementation various deployment strategies.",
-            "highlights": [],
-            "endDate": "2016-08-01"
+            "startDate": "2014",
+            "summary": "Established foundation of the entire business’ infrastructure for Android, iOS, Web front-end and back-end departments. Product release automation. Design and implementation of various deployment strategies.",
+            "highlights": ["Azure", "CI/CD", ".NET"],
+            "endDate": "2016"
         },
         {
             "company": "Luxoft",
             "position": "Configuration Manager, Java Developer",
             "website": "https://luxoft.com",
-            "startDate": "2012-09-01",
-            "summary": "Provided infrastructure support to development team. Supported development activities so that developers and QA Engineers have appropriate workspaces to build and test their work, and so that all artifacts are available for inclusion in the deployment unit as required. Also had to ensure that the environment facilitates product review, and change and defect tracking activities and also responsible for writing the CM Plan and reporting progress statistics based on change requests.",
-            "highlights": [],
-            "endDate": "2014-08-01"
+            "startDate": "2012",
+            "summary": "Infrastructure support. Supported development and QA Automation activities. Environment automation.",
+            "highlights": ["Java", "Jenkins", "Vagrant"],
+            "endDate": "2014"
         }
     ],
     "education": [{
         "institution": "Omsk State Technical University",
         "area": "Computers, complexes, systems and networks",
         "studyType": "Specialist degree (MCS)",
-        "startDate": "2008-09-01",
-        "endDate": "2013-06-15",
+        "startDate": "2008",
+        "endDate": "2013",
         "courses": ["Design Patterns", "AWS Certified Solutions Architect - Associate 2018-2020", "Linux Foundation Certified Engineer Course (LFCE)"]
     }],
     "skills": [{
@@ -82,15 +82,10 @@
             "keywords": ["CI/CD Pipeline as code", "Infrastructure as Code", "Documentation as Code", "Monitoring as Code", "Blameless Culture", "Retrospective", "Postmortems", "Immutable infrastructure", "Automation", "Chatops", "Gitflow", "Github Flow", "Live Business Metrics"]
         },
         {
-            "name": "Microsoft Azure",
-            "level": "",
-            "keywords": ["App Services", "Functions", "Traffic Manager", "Azure Storage", "Application Insights", "Automation Runbooks", "Logic Apps", "MS SQL", "Redis"]
-        },
-        {
-            "name": "Amazon Web Services",
-            "level": "",
-            "keywords": ["VPC", "EC2", "S3", "Cloudwatch", "ECS/ECR", "Lambda", "API Gateway", "Cloudfront", "CAM", "Route 53", "Beanstalk", "Elasticsearch", "SQS", "Kinesis", "RDS", "DynamoDB", "IAM"]
-        },
+          "name": "Public Clouds",
+          "level": "",
+          "keywords": ["Microsoft Azure", "Amazon Web Services"]
+      },
         {
             "name": "Continuous Integration",
             "level": "",
@@ -129,7 +124,7 @@
         {
             "name": "Containerization",
             "level": "",
-            "keywords": ["Docker", "Docker Compose", "AWS ECS"]
+            "keywords": ["Docker", "Docker Compose", "AWS ECS", "Kubernetes"]
         },
         {
             "name": "Logging",
@@ -152,13 +147,12 @@
             "keywords": ["Ubuntu", "CentOS/RHEL"]
         }
     ],
-    "languages": [{
-            "language": "Russian",
-            "fluency": "Native or bilingual proficiency"
-        },
-        {
-            "language": "English",
-            "fluency": "Full professional proficiency"
-        }
+    "languages": [
+      {
+        "language": "English"
+      },
+      {
+          "language": "Russian"
+      }
     ]
 }
