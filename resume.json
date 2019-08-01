@@ -41,15 +41,57 @@
             }
         ]
     },
+    "projects": [
+      {
+        "name": "Slick",
+        "summary": "Key as a service. Cloud platform that allows you to share your car with your phone.",
+        "url": "https://slick.sg",
+        "startDate": "2018",
+        "highlights": ["AWS, Lambda, Kinesis Stream, DynamoDB, Cloudfront", "NodeJS", "Serverless"]
+    },
+    {
+      "name": "Singapore ERP2",
+      "summary": "World's first sattelite-based, next-generation Electronic Road Pricing (ERP) system.",
+      "url": "https://www.lta.gov.sg/apps/news/default.aspx?scr=yes&keyword=ERP2",
+      "startDate": "2017",
+      "highlights": ["NDA"]
+  },
+      {
+        "name": "AvivaUBI",
+        "summary": "Driver Behavior analysis platform - identifies risky driving behavior and discovers the actual driving patterns of a vehicle operator to identify unsafe practices or policy violations.",
+        "url": "https://www.aviva.com.sg",
+        "startDate": "2014",
+        "highlights": ["AWS", "Rails", "Docker", "ECS", "Redis"],
+        "endDate": "2016"
+    },
+      {
+      "name": "BandLab",
+      "summary": "World’s first cross-platform DAW with social features like video sharing, messaging and discovery.",
+      "url": "https://www.bandlab.com",
+      "startDate": "2014",
+      "highlights": ["Microsoft Azure", "ASP.NET", "Highload", "Microservices", "Globally distributed systems", "Angular", "Teamcity", "Jenkins", "fastlane"],
+      "endDate": "2016"
+  },
+  {
+    "name": "DHLi",
+    "summary": "Web application that allows you to book, track and report on your shipments.",
+    "url": "https://dhli.dhl.com",
+    "startDate": "2012",
+    "highlights": ["Java", "Wicket", "Oracle", "Jenkins"],
+    "endDate": "2014"
+}],
     "work": [{
             "company": "Quantum Inventions",
             "position": "Lead DevOps Engineer",
             "website": "http://qi.sg",
             "startDate": "2016",
             "summary": "Design and implementation of flexible and robust infrastructure. Advocate DevOps culture and best SDLC practises among developers, qa automation, operation teams. Operating, maintaining and supporting the entire business’ infrastructure for all groups, including Android, iOS, Web front-end and back-end departments.",
-            "highlights": ["AWS Multi-Account Strategy", 
-              "Serverless", 
-              "CI\\СD automation with Jenkins Pipelines, GitLab CI", 
+            "highlights": [
+              "Implemented AWS Multi-Account Strategy to provide transparency, proper cost and resource allocation, agility, and security in the cloud.", 
+              "Foundation of serverless architecture",
+              "Architectural design of Cloud-native web applications",
+              "Backend Development",
+              "Design complex Jenkins CI\\CD Pipelines", 
               "Monitoring and Alerting with Prometheus, CAdvisor, NodeExporter, Grafana",
               "Alerting and notification with Slack, Mattermost, Microsoft Teams",
               "Dockerized multiple projects in various technologies",
@@ -63,9 +105,9 @@
             ]
         },
         {
-            "company": "BandLab",
+            "company": "BandLab Technologies",
             "position": "DevOps Engineer",
-            "website": "https://www.bandlab.com",
+            "website": "https://bandlabtechnologies.com",
             "startDate": "2014",
             "summary": "Established foundation of the entire business’ infrastructure for Android, iOS, Web front-end and back-end departments. Product release automation. Design and implementation of various deployment strategies.",
             "highlights": [ 
