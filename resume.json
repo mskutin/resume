@@ -46,8 +46,21 @@
             "position": "Lead DevOps Engineer",
             "website": "http://qi.sg",
             "startDate": "2016",
-            "summary": "Build DevOps culture with Devs, QAs and Ops. Design and implementation of flexible and robust infrastructure.",
-            "highlights": ["AWS Multi-Account Strategy", "Cloud cost optimizations", "Serverless", "Monorepo", "Feature-branch deployment"]
+            "summary": "Design and implementation of flexible and robust infrastructure. Advocate DevOps culture and best SDLC practises among developers, qa automation, operation teams. Operating, maintaining and supporting the entire business’ infrastructure for all groups, including Android, iOS, Web front-end and back-end departments.",
+            "highlights": ["AWS Multi-Account Strategy", 
+              "Serverless", 
+              "CI\\СD automation with Jenkins Pipelines, GitLab CI", 
+              "Monitoring and Alerting with Prometheus, CAdvisor, NodeExporter, Grafana",
+              "Alerting and notification with Slack, Mattermost, Microsoft Teams",
+              "Dockerized multiple projects in various technologies",
+              "Docker containers, application log collection, queue distribution and rotation via ELK stack",
+              "Management of team's git repositories (branching, tagging, merge automation), foundation of GitFlow Workflow, Feature Branch Workflow",
+              "IaC advocate, Terrafarom and CloudFormation templates",
+              "Prepare and provisioning environments using Packer, Vagrant, Docker, Ansible",
+              "Automation of routine tasks using serverless AWS Lambda functions",
+              "Troubleshooting HTTP(S), JSON REST API, routing",
+              "Tooling with nodejs, bash, powershell, python"
+            ]
         },
         {
             "company": "BandLab",
@@ -55,7 +68,12 @@
             "website": "https://www.bandlab.com",
             "startDate": "2014",
             "summary": "Established foundation of the entire business’ infrastructure for Android, iOS, Web front-end and back-end departments. Product release automation. Design and implementation of various deployment strategies.",
-            "highlights": ["Azure", "CI/CD", ".NET"],
+            "highlights": [ 
+              "Orchestration of Azure cloud: Application Insights (Monitoring, Alerts), Automation Runbooks, Redis, Storage Accounts, CDN, Load Balancers, AppService Environment, CDN Profiles(Akamai, Verizon), Cloud Services, Logic Apps, MS SQL(PaaS) Geo-Redundant Replication",
+              "Administration of the Atlassian products: JIRA, Confluence, Bamboo, Hipchat",
+              "Management of Team's Github/BitBucket repositories (branching, tagging, merge automation)",
+              "Automation of routine using serverless Azure Runbook and Azure Functions",
+              "Development DevOps tools in Powershell, Python, Bash, Nodejs "],
             "endDate": "2016"
         },
         {
@@ -79,7 +97,7 @@
     "skills": [{
             "name": "DevOps",
             "level": "",
-            "keywords": ["CI/CD Pipeline as code", "Infrastructure as Code", "Documentation as Code", "Monitoring as Code", "Blameless Culture", "Retrospective", "Postmortems", "Immutable infrastructure", "Automation", "Chatops", "Gitflow", "Github Flow", "Live Business Metrics"]
+            "keywords": ["Everything as Code", "Blameless Culture", "Retrospective", "Postmortems", "Immutable infrastructure", "Automation", "Chatops", "Gitflow", "Live Business Metrics"]
         },
         {
           "name": "Public Clouds",
